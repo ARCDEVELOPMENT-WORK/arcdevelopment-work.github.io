@@ -1,0 +1,14 @@
+{
+    "name": "telebot",
+    "version": "1.0.0",
+    "description": "Telegram bot for user registration and management",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "axios": "^1.9.0",
+      "moment": "^2.29.4",
+      "node-telegram-bot-api": "^0.61.0"
+    }
+  }
